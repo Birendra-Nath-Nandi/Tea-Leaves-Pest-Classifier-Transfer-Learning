@@ -1,6 +1,6 @@
 # 🐛 Tea Leaves Pest Classifier | Transfer Learning
 
-This project is a custom-trained image classification model designed to detect and classify 10 types of insect pests commonly found on tea leaves. The entire pipeline—from dataset creation to prediction—is built and documented by **Vex**, a Computer Science student exploring practical applications of deep learning in agriculture.
+This project is a custom-trained image classification model designed to detect and classify 10 types of insect pests commonly found on tea leaves. The entire pipeline—from dataset creation to prediction—is built and documented by **Birendra**, a Computer Science student exploring practical applications of deep learning in agriculture.
 
 <div align="center">
   <img src="./assets/Visual_Sample_of_Each_Class.png"/>
