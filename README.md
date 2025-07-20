@@ -188,7 +188,7 @@ This repo is designed to be run **directly in Kaggle or Colab**.
 ### ▶️ Steps
 
 1. Open `tea-leaves-pest-classifier-transfer-learning.ipynb` in [Kaggle](https://www.kaggle.com/) or [Google Colab](https://colab.research.google.com/).
-2. Make sure the `pest/` dataset folder is available via Kaggle dataset or uploaded to Colab.
+2. Make sure the [Tea Leaves Pest - Dataset](https://www.kaggle.com/datasets/birendra41/tea-leaves-pest-dataset) dataset folder is available via Kaggle dataset or uploaded to Colab.
 3. Run the notebook cells in order.
 4. Optionally, use the final prediction cell to test any web image.
 
