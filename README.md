@@ -32,7 +32,7 @@ pest/
 │   ├── caterpillar/
 │   ├── ...
 
-````
+```
 
 ## 🐞 Classes
 
@@ -184,6 +184,7 @@ predict_from_url(url, model, class_names)
 ## 📚 How to Use
 
 This repo is designed to be run **directly in Kaggle or Colab**.
+<a href="https://www.kaggle.com/code/birendranathnandi/tealeaves-pest-classifier-transfer-learning" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 ### ▶️ Steps
 
