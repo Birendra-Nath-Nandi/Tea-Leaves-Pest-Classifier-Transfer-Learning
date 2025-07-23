@@ -1,3 +1,5 @@
+<a href="https://www.kaggle.com/code/birendranathnandi/tealeaves-pest-classifier-transfer-learning" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+
 # 🐛 Tea Leaves Pest Classifier | Transfer Learning
 
 This project is a custom-trained image classification model designed to detect and classify 10 types of insect pests commonly found on tea leaves. The entire pipeline—from dataset creation to prediction—is built and documented by **Birendra**, a Computer Science student exploring practical applications of deep learning in agriculture.
@@ -184,7 +186,6 @@ predict_from_url(url, model, class_names)
 ## 📚 How to Use
 
 This repo is designed to be run **directly in Kaggle or Colab**.
-<a href="https://www.kaggle.com/code/birendranathnandi/tealeaves-pest-classifier-transfer-learning" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 ### ▶️ Steps
 
